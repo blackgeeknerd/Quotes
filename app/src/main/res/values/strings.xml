@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Affirmations</string>
+    <string name="affirmation1">"You yourself, as much as anybody in the entire universe, deserve your love and affection.” — Buddha</string>
+    <string name="affirmation2">"Always remember you are braver than you believe, stronger than you seem, and smarter than you think." —Christopher Robin</string>
+    <string name="affirmation3">"Think like a queen. A queen is not afraid to fail. Failure is another stepping stone to greatness." —Oprah</string>
+    <string name="affirmation4">"When you’re different, sometimes you don’t see the millions of people who accept you for what you are. All you notice is the person who doesn’t. —Jodi Picoult"</string>
+    <string name="affirmation5">"The courage to be is the courage to accept oneself, in spite of being unacceptable. —Paul Tillich"</string>
+    <string name="affirmation6">"All progress takes place outside the comfort zone. — Michael John Bobak"</string>
+    <string name="affirmation7">"I owe my success to having listened respectfully to the very best advice, and then going away and doing the exact opposite — G. K. Chesterton"</string>
+    <string name="affirmation8">"Don’t be distracted by criticism. Remember-the only taste of success some people get is to take a bite out of you — Zig Ziglar"</string>
+    <string name="affirmation9">"I laugh at myself. I don’t take myself completely seriously. I think that’s another quality that people have to hold on to, you have to laugh, especially at yourself. — Madonna"</string>
+    <string name="affirmation10">"Nothing splendid has ever been achieved except by those who dared believe that something inside of them was superior to circumstance.— Bruce Barton"</string>
+</resources>
