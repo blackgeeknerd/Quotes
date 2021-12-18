@@ -27,7 +27,6 @@ class ItemAdapter(private val context: Context, private val dataset: List<Affirm
         val imageView: ImageView = view.findViewById(R.id.item_image)
     }
 
-
     /**
      * Create new views (invoked by the layout manager)
      */

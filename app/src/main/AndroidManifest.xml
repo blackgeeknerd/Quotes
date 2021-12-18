@@ -9,6 +9,7 @@
             android:roundIcon="@mipmap/ic_launcher_round"
             android:supportsRtl="true"
             android:theme="@style/Theme.Affirmations">
+
         <activity android:name=".MainActivity"
                   android:exported="true">
             <intent-filter>
@@ -17,6 +18,18 @@
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>
+
+        <uses-library android:name="android.test.runner"
+                      android:required="false" />
+        <!-- For both of these declarations, you don't need to include
+     android:required="false" if your app's minSdkVersion is 28
+     or higher. -->
+        <uses-library android:name="android.test.base"
+                      android:required="false" />
+        <uses-library android:name="android.test.mock"
+                      android:required="false" />
+
+
     </application>
 
 </manifest>
